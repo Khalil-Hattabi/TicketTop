@@ -26,7 +26,7 @@ body {
 .right-div {
     /* Additional styles for right div, if needed */
 }
-.center-buttons {
+.center-button {
     display: flex;
     justify-content: center;
     align-items: center;
