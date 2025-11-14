@@ -10,7 +10,7 @@ body {
   position: absolute;
   top: 0;
   left: 0;
-  height: 50px;
-  width: 100%;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.27);
+  display: flex; /* Use Flexbox to arrange children */
+  justify-content: space-between; /* Space between small divs */
+  padding: 10px;
 }
