@@ -29,7 +29,7 @@ body {
 .circular-round-button {
     width: 50px; /* Circular button width */
     height: 30px; /* Circular button height */
-    border-radius: 25%; /* Make it circular */
+    border-radius: 40%; /* Make it circular */
     border: none; /* Remove default border */
     background-color: #000; /* Button background color */
     color: white; /* Button text color */
