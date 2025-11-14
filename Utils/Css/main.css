@@ -14,3 +14,31 @@ body {
   justify-content: space-between; /* Space between small divs */
   padding: 10px;
 }
+.small-div {
+    display: flex; /* Use Flexbox for children alignment */
+    align-items: center; /* Center items vertically */
+}
+
+.left-div {
+    /* Additional styles for left div, if needed */
+}
+
+.right-div {
+    /* Additional styles for right div, if needed */
+}
+
+.circular-button {
+    width: 40px; /* Circular button width */
+    height: 40px; /* Circular button height */
+    border-radius: 50%; /* Make it circular */
+    border: none; /* Remove default border */
+    background-color: #007bff; /* Button background color */
+    color: white; /* Button text color */
+    font-size: 16px; /* Font size for letters */
+    margin-right: 10px; /* Space between buttons */
+    cursor: pointer; /* Pointer on hover */
+}
+
+.bug-icon {
+    /* Optional: Additional styles for the bug icon button */
+}
