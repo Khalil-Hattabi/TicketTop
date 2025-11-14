@@ -1,7 +1,9 @@
 body {
-  background-color: #c2bba9;
+  background-color: #f5f4f2;
 }
 .upperbox {
-  height: 90px;
+  position: absolute;
+  left: 0;
+  height: 10px;
   border-bottom: 2px solid black;
 }
