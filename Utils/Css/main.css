@@ -27,9 +27,9 @@ body {
     /* Additional styles for right div, if needed */
 }
 .circular-round-button {
-    width: 60px; /* Circular button width */
+    width: 90px; /* Circular button width */
     height: 30px; /* Circular button height */
-    border-radius: 50%; /* Make it circular */
+    border-radius: 35%; /* Make it circular */
     border: none; /* Remove default border */
     background-color: #000; /* Button background color */
     color: white; /* Button text color */
