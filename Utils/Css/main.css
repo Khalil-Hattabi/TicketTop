@@ -3,7 +3,9 @@ body {
 }
 .upperbox {
   position: absolute;
+  top: 0;
   left: 0;
   height: 10px;
+  width: 100%;
   border-bottom: 2px solid black;
 }
