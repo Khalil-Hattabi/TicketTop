@@ -12,7 +12,7 @@ body {
   left: 0;
   display: flex; /* Use Flexbox to arrange children */
   justify-content: space-between; /* Space between small divs */
-  padding: 10px;
+  padding: 5px;
 }
 .small-div {
     display: flex; /* Use Flexbox for children alignment */
@@ -42,4 +42,5 @@ body {
 .bug-icon {
     /* Optional: Additional styles for the bug icon button */
   background-color: #c2c2c2 !important;
+  color : black !important;
 }
